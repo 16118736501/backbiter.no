@@ -1,6 +1,4 @@
 ![backbiter.no](backbiterno_logo.png)
-
-backbiter.no
 ============
 
 Hei og velkommen til [backbiter.no](https://backbiter.no)!
