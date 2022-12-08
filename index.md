@@ -1,12 +1,5 @@
-<code>
-▄▄▄▄▄▄▄ ▄▄▄▄▄▄ ▄▄▄▄▄▄▄ ▄▄▄   ▄ ▄▄▄▄▄▄▄ ▄▄▄ ▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄ ▄▄▄▄▄▄   
-█  ▄    █      █       █   █ █ █  ▄    █   █       █       █   ▄  █  
-█ █▄█   █  ▄   █       █   █▄█ █ █▄█   █   █▄     ▄█    ▄▄▄█  █ █ █  
-█       █ █▄█  █     ▄▄█      ▄█       █   █ █   █ █   █▄▄▄█   █▄▄█▄ 
-█  ▄   ██      █    █  █     █▄█  ▄   ██   █ █   █ █    ▄▄▄█    ▄▄  █
-█ █▄█   █  ▄   █    █▄▄█    ▄  █ █▄█   █   █ █   █ █   █▄▄▄█   █  █ █
-█▄▄▄▄▄▄▄█▄█ █▄▄█▄▄▄▄▄▄▄█▄▄▄█ █▄█▄▄▄▄▄▄▄█▄▄▄█ █▄▄▄█ █▄▄▄▄▄▄▄█▄▄▄█  █▄█
-</code><p>
+![backbiter.no](backbiterno_logo.png)
+
 backbiter.no
 ============
 
@@ -56,17 +49,12 @@ Purken i Rogaland styres for tiden stort sett av slike folk som faren min, Henry
 Ikke jeg heller..
 -----------------
 
-Pikken staves med "kk". 
-Mellom beina har jeg en tiss. Jeg har ikke en pillefygert. 
-Men jeg er ikke en pikk når jeg sier at Tove Tendenes, min mor, er farlig. 
-Fordi er barn har rett til å si fra om overgrep. Og mor leker med pillefygerten betydde for meg at mor lekte med tissen min. 
+Pikken staves med "kk". Mellom beina har jeg en tiss. Jeg har ikke en pillefygert.
 
-Jeg fortalte til mange at mor, og far, og mange andre trygge voksne, lekte med tissen min. 
-Moren min forteller ofte hvor morsomme situasjoner hun skaper ved å nærmest konsekvent omtale TV-apparatets kontrollfjerner for pillefygert. 
-Og det har hun selvfølgelig lov til å gjøre! 
-Jeg tviholder på retten min til å fortelle deg at det gjør vondt når alle de voksne, til og med de snille, bare ler av meg. 
-Når jeg prøver alle måter jeg forstår, å fortelle at jeg ikke liker at dere tar meg på tissen. Jeg hører godt dere kaller det lek. 
-Men ingen hører meg når jeg kaller det overgrep og voldtekt. Fordi moren min er en farlig jævel. 
+Men jeg er ikke en pikk når jeg sier at Tove Tendenes, min mor, er farlig. Fordi er barn har rett til å si fra om overgrep. Og mor leker med pillefygerten betydde for meg at mor lekte med tissen min.
 
-Hun drepte språket mitt. Til sitt eget barn. 
-Som manipulator er hun verdens beste. Men som mor er hun sykt elendig. Og farlig.
+Jeg fortalte til mange at mor, og far, og mange andre trygge voksne, lekte med tissen min. Moren min forteller ofte hvor morsomme situasjoner hun skaper ved å nærmest konsekvent omtale TV-apparatets kontrollfjerner for pillefygert. Og det har hun selvfølgelig lov til å gjøre!
+
+Jeg tviholder på retten min til å fortelle deg at det gjør vondt når alle de voksne, til og med de snille, bare ler av meg. Når jeg prøver alle måter jeg forstår, å fortelle at jeg ikke liker at dere tar meg på tissen. Jeg hører godt dere kaller det lek. Men ingen hører meg når jeg kaller det overgrep og voldtekt. Fordi moren min er en farlig jævel.
+
+Hun drepte språket mitt. Til sitt eget barn. Som manipulator er hun verdens beste. Men som mor er hun sykt elendig. Og farlig.
